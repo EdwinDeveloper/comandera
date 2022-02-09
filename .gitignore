@@ -2,6 +2,7 @@
 
 # dependencies
 /comander/node_modules
+/socket/node_modules/
 /comander/.pnp
 /comander/.pnp.js
 
