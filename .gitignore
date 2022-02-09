@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/comander/node_modules
+/comander/.pnp
+/comander/.pnp.js
+
+# testing
+/comander/coverage
+
+# production
+/comander/build
+
+# misc
+/comander/.DS_Store
+/comander/.env.local
+/comander/.env.development.local
+/comander/.env.test.local
+/comander/.env.production.local
+
+/comander/npm-debug.log*
+/comander/yarn-debug.log*
+/comander/yarn-error.log*
