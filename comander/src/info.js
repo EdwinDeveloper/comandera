@@ -275,8 +275,8 @@ export const posts = [
         id: 3,
         username:"Pastas y Ensaladas",
         fullname: "Pastas y Ensaladas",
-        userImg: "https://www.paulinacocina.net/wp-content/uploads/2020/01/untitled-copy.jpg",
-        postImg: "https://www.paulinacocina.net/wp-content/uploads/2020/01/untitled-copy.jpg",
+        userImg: "https://images.aws.nestle.recipes/resized/818D6D76-811C-6377-B9D8-FF0000673B69-500x295-b-principal_1200_600.png",
+        postImg: "https://images.aws.nestle.recipes/resized/818D6D76-811C-6377-B9D8-FF0000673B69-500x295-b-principal_1200_600.png",
         menu: [
             {
                 name: "Fetushinni en salsa pomodoro",
@@ -414,8 +414,8 @@ export const posts = [
         id: 4,
         username:"Crepas",
         fullname: "Crepas",
-        userImg: "https://www.paulinacocina.net/wp-content/uploads/2020/01/untitled-copy.jpg",
-        postImg: "https://www.paulinacocina.net/wp-content/uploads/2020/01/untitled-copy.jpg",
+        userImg: "https://www.laylita.com/recetas/wp-content/uploads/2017/04/Receta-casera-de-crepas-dulces.jpg",
+        postImg: "https://www.laylita.com/recetas/wp-content/uploads/2017/04/Receta-casera-de-crepas-dulces.jpg",
         menu: [
             {
                 name: "Crepa",
